@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Stock Helper</string>
+    <string name="stock_database">stock.db</string>
+    <string name="Runtime_Exception" />
+    <string name="Blehhhh">BLEHHHH</string>
+    <string name = "bad"> :(( Perhaps it\'s the economy? Perhaps it\'s the choices of stocks? See below fore more details. </string>
+    <string name = "neutral">Hmmm... a bit in the middle. See below for more info with the S&amp;P</string>
+    <string name="over20p1">Have you held this stock for 3 weeks or less? If so, keep holding for at least 5 more weeks!
+        Chances are, you have just found a great growth stock. This technique is known as the "8-Week-Hold-Rule."
+        Because of how fast the stock is growing, it could have huge chances of becoming a winner! </string>
+    <string name="over20p2">If not, you should maybe think about selling! Though it may still have the potential
+        to grow, more likely than not, investors will take their profits and cash-out. Over a 20% profit margin
+        is already quite significant; waiting any longer may lead the stock to fall... </string>
+    <string name="over50">Congrats on the earnings! If you have held this stock for significantly longer than 8 weeks,
+        perhaps think about cashing out. Though ultimately use your best judgement. :) </string>
+    <string name="Fiveperc"> You are almost matching the SP500! Good job overall, especially if you are new! Keep it up! :) </string>
+    <string name="GreaterThan15"> Wow, you. are. a. natural. Keep it up! </string>
+    <string name="LessThan15">Hmm... Perhaps thinking about putting some money in the S&amp;P 500 ETF. It is realitively safer than just
+        stocks and may yield a greater outcome in the future. However, don\'t let this discourage you!</string>
+    <string name="del">Del</string>
+    <string name="details">Details</string>
+    <string name="lightBlue">#C9F6FF</string>
+    <string name="AmtLabel">Amount: </string>
+    <string name="AvgCostLabel">Average Cost: </string>
+    <string name="stock">stock</string>
+    <string name="amount">amount</string>
+    <string name="avgCost">avgCost</string>
+    <string name="Ok">Ok</string>
+    <string name="Cancel">Cancel</string>
+    <string name="nameError">This field can not be empty</string>
+    <string name="AmtError">This field can not be empty</string>
+    <string name="CostError">This field can not be empty</string>
+    <string name="todayPercChange">todayPercChange</string>
+    <string name="spyPercChange">spyPercChange</string>
+    <string name="call_ser_not">call_service_notifications</string>
+    <string name="CallName">Call Service Notifications</string>
+    <string name="updateAPI">Updating Stock API</string>
+    <string name="buy_price">buy_price</string>
+    <string name="baseURL">https://www.alphavantage.co</string>
+    <string name="GLOBAL_QUOTE">GLOBAL_QUOTE</string>
+    <string name="APIKey">CYGT8ODDBYZQQEQY</string>
+    <string name="Over"> Over 20% Returns: </string>
+    <string name="Over2"> . Think about selling! View Suggestions for More Info. </string>
+    <string name="Warning">Warning: </string>
+    <string name="BadReturns"> -10% Returns $perReturns. Proceed with caution!</string>
+    <string name="notRunning">Stock Helper is Running</string>
+    <string name="warn">Warning</string>
+    <string name="EnterSym">Enter Stock Symbol</string>
+    <string name="PriceLabel">Price: </string>
+    <string name="BoughtLabel">Bought At:</string>
+    <string name="TotalReturnLabel">Total Returns:</string>
+    <string name="TotalPerCLabel">Total Percentage Change:</string>
+    <string name="SPY">SPY</string>
+    <string name="SPLabel"><![CDATA[S&P500 ETF Indicator:]]></string>
+    <string name="Suggestions">Suggestions:</string>
+    <string name="sugBtn">Suggestions</string>
+    <string name="notBtn">Notification</string>
+    <string name="AMOUNT">Amount</string>
+    <string name="perCost">Per Cost</string>
+    <string name="PlsEnter">Please Enter Stock Symbol</string>
+
+</resources>
